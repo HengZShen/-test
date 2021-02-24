@@ -1,0 +1,12 @@
+.fa-th:hover, .fa-bars:hover {
+  cursor:pointer;
+
+}
+
+ul {
+/* https://stackoverflow.com/questions/41987305/what-does-min-width-100-width-auto-actually-do#:~:text=min%2Dwidth%3A100%25%20makes,to%20keep%20its%20original%20size. */
+
+/* min-width:100% makes sure the element is at least as wide as its container. width: auto allows the element to keep its original size. */
+min-width:100%
+
+}
